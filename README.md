@@ -4,7 +4,8 @@ Create a website which will allow users to get weather information of any city.
 
 In website users will be able to search any city and get information like
  Place,Weather,Temparature,Pressure,Humidity,visibility,Minimum temparature,Maximum temparature.
- Using Weather API : `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=41752d189df0a3935c2b94aa0a86ccdd`
+ Using Weather API :
+ `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=41752d189df0a3935c2b94aa0a86ccdd`
 
 * Create a web page having a input box and a search button.
 
